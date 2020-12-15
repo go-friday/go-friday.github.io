@@ -1,0 +1,5 @@
+theme: jekyll-theme-primer
+baseurl: "/"
+google_analytics: G-170VH7FBF8
+permalink: "/:title"
+title: Go Friday!
